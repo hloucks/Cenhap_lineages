@@ -1,0 +1,13 @@
+Cenhap	color
+1	#616361
+2	#DCDBDB
+3	#ACBDE0
+4	#9FD3A7
+5	#f14134
+6	#E2976E
+7	#9EDAE3
+8	#34cc33
+9	#848484
+10	#fe84f9
+11	#ab82ff
+12	#F06CA9
