@@ -2,15 +2,8 @@
 
 ## Source data
 
-BED files from PCLAI (Point Cloud Local Ancestry Inference), a deep learning tool
-that assigns each ~75kb genomic window a continuous 2D coordinate in PCA ancestry
-space. All coordinates are in CHM13v2 space.
+Summary of from sample labeling from PCLAI (Point Cloud Local Ancestry Inference). All coordinates are in CHM13v2 space.
 
-Each BED row contains:
-- Genomic window (chrom, start, end)
-- A per-window 2D coordinate (col 3, embedded in the name field)
-- An RGB color (col 8) derived from the 2D coordinate via a reference PCA colormap
-- The nearest cluster centroid (col 9), which serves as the discrete ancestry assignment
 
 ## Cluster assignment
 
